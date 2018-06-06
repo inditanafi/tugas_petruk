@@ -1,0 +1,41 @@
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MDIParent1.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datakk.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datamutasi.resources
+C:\Users\INDITA NAFI\Documents\Visual Studio 2013\Projects\tugas\tugas\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.suratkelahiran.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datakk.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datamutasi.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MDIParent1.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\VIDEO PETRUK\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datakk.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.datamutasi.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MDIParent1.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.suratkelahiran.resources
+D:\tugas besar petruk\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
